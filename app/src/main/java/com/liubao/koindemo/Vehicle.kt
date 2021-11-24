@@ -1,3 +1,5 @@
+package com.liubao.koindemo
+
 interface Vehicle {
     fun run()
 }

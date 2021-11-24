@@ -1,11 +1,8 @@
 package com.liubao.koindemo
 
-import Car
-import CarEngine
-import Vehicle
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import org.koin.android.ext.android.get
 import org.koin.android.ext.android.inject
